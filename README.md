@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
+- [math](#math) (1)
 - [sortings](#sortings) (1)
 
 ---
@@ -28,7 +29,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 8](https://github.com/ragibgulzar/codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/ragibgulzar/codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 8](https://github.com/ragibgulzar/codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 
 ### sortings
 
