@@ -6,16 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (2)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 - [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -25,12 +28,25 @@
 |---|---------|------------|----------|
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/ragibgulzar/codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/ragibgulzar/codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/ragibgulzar/codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 8](https://github.com/ragibgulzar/codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/ragibgulzar/codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/ragibgulzar/codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 
 ### math
 
@@ -43,6 +59,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/ragibgulzar/codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/ragibgulzar/codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 
 ---
 
